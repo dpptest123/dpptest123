@@ -1,0 +1,9 @@
+① git status 查看状态
+② git add  添加
+③ git commit 提交
+
+
+② git add  添加
+③ git commit 提交
+② git add  添加
+③ git commit 提交
